@@ -98,7 +98,7 @@ export const products = [
     name: "Mukammal xotira",
     price: 100,
     number: 71,
-    quantity: 19,
+    quantity: 1,
     productId: [3],
   },
   {
@@ -106,7 +106,7 @@ export const products = [
     name: "Baxtiyor oila",
     price: 4000,
     number: 78,
-    quantity: 45,
+    quantity: 1,
     productId: [0]
   },
   {
@@ -114,7 +114,7 @@ export const products = [
     name: "Mukammal saodat yo'li",
     price: 45000,
     number: 8,
-    quantity: 45,
+    quantity: 1,
     productId: [0]
   },
 ];
