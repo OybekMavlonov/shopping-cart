@@ -117,4 +117,12 @@ export const products = [
     quantity: 1,
     productId: [0]
   },
+  {
+    id: 8,
+    name: "Iymon",
+    price: 3600,
+    number: 8,
+    quantity: 1,
+    productId: [0]
+  },
 ];
